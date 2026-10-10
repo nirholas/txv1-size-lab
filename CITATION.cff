@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "txv1-size-lab"
+abstract: "Measure payload headroom against 1,232-byte legacy and 4,096-byte v1 ceilings."
+repository-code: "https://github.com/nirholas/txv1-size-lab"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
