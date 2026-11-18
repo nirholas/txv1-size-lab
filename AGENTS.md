@@ -8,7 +8,7 @@ Measure payload headroom against 1,232-byte legacy and 4,096-byte v1 ceilings.
 
 - Source: https://github.com/nirholas/txv1-size-lab
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
